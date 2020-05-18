@@ -1,0 +1,9 @@
+#!/bin/bash
+
+#
+# Robert Brockway
+#
+# May 19, 2020
+#
+
+/usr/bin/google-chrome --profile-directory=$HOSTNAME
